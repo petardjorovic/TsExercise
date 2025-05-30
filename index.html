@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- <div id="carlist"></div>
+    <button id="show-cars-btn">Show cars</button> -->
+
+    <form
+      id="create-task-form"
+      style="display: flex; flex-direction: column; width: 200px; gap: 10px"
+    >
+      <input
+        type="text"
+        placeholder="Enter tast title"
+        required
+        id="task-title"
+      />
+      <textarea
+        id="task-description"
+        placeholder="Enter task description"
+        required
+      ></textarea>
+      <input type="datetime-local" id="task-due-date" required />
+      <button id="create-task-btn" type="submit">Create task</button>
+    </form>
+
+    <div id="task-list"></div>
+    <div id="new-task-list"></div>
+    <script src="./dist//bundle.js"></script>
+  </body>
+</html>

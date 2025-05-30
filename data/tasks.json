@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Todo #1",
+    "description": "Hello world",
+    "due_date": "01-01-2025 05:05:03"
+  },
+  {
+    "title": "Todo #2",
+    "description": "Finish TypeScript tutorial",
+    "due_date": "02-01-2025 10:30:00"
+  },
+  {
+    "title": "Todo #3",
+    "description": "Buy groceries",
+    "due_date": "03-01-2025 12:15:00"
+  },
+  {
+    "title": "Todo #4",
+    "description": "Send project update",
+    "due_date": "04-01-2025 09:00:00"
+  },
+  {
+    "title": "Todo #5",
+    "description": "Book dentist appointment",
+    "due_date": "05-01-2025 16:45:00"
+  },
+  {
+    "title": "Todo #6",
+    "description": "Read a new book",
+    "due_date": "06-01-2025 20:00:00"
+  },
+  {
+    "title": "Todo #7",
+    "description": "Go for a run",
+    "due_date": "07-01-2025 07:30:00"
+  },
+  {
+    "title": "Todo #8",
+    "description": "Call mom",
+    "due_date": "08-01-2025 18:00:00"
+  },
+  {
+    "title": "Todo #9",
+    "description": "Clean the apartment",
+    "due_date": "09-01-2025 14:20:00"
+  },
+  {
+    "title": "Todo #10",
+    "description": "Plan weekend trip",
+    "due_date": "10-01-2025 11:00:00"
+  }
+]
